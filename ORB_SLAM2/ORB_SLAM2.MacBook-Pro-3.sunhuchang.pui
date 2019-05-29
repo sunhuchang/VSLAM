@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<!DOCTYPE PRJ SYSTEM "ORB_SLAM2.MacBook-Pro-3.sunhuchang.dtd">
+<PRJ>
+  <Project_Information>
+    <Working_Time>4727672740201</Working_Time>
+    <Project_Start>0F000000090000000E000000060000000400000077000000010000007D00000000000000006000008070000000000000501E02A2B67F0000BC</Project_Start>
+    <MDIPerspective/>
+  </Project_Information>
+  <Active_Settings>
+    <Active_File_Display_Mode>-1</Active_File_Display_Mode>
+    <Active_File>/Users/sunhuchang/WorkSpace/sourcecode/ORB_SLAM2/src/Frame.cc</Active_File>
+  </Active_Settings>
+</PRJ>
