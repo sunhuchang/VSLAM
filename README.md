@@ -17,6 +17,11 @@ Usage:
 
 $./rgbd_tum path_to_vocabulary path_to_settings path_to_sequence path_to_association
 
+建立一个相应大小的空文件(这里count=3000就是3G啦)：
+
+$cd /
+
+$sudo dd if=/dev/zero of=swapfile bs=1M count=3000
 
 $sudo mkswap /swapfile
 
